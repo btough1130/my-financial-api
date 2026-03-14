@@ -1,2 +1,2 @@
 import os
-os.system("python -m aktools --host 0.0.0.0 --port 10000")
+os.system("python -m aktools --host 0.0.0.0 --port 8000")
